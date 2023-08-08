@@ -5,7 +5,7 @@
 [Apollo](https://www.apollographql.com/docs/apollo-server/getting-started/)
 
 
-### query
+## > query
 
 功能範例
 
@@ -23,7 +23,7 @@ query {
 
 ***
 
-### mutation
+## > mutation
 
 功能範例
 
